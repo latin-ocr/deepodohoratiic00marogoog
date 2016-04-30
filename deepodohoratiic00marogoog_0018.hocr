@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deepodohoratiic00marogoog_0018.png"; bbox 0 0 3525 5384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1664 2325 3026 2481">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1664 2325 3026 2481">
+     <span class='ocr_line' id='line_1_1' title="bbox 1664 2325 3026 2398; baseline -0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 1664 2326 1833 2381; x_wconf 78' lang='lat' dir='ltr'><strong><em>Liber</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1867 2326 1932 2382; x_wconf 79' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1968 2326 2213 2382; x_wconf 74' lang='lat' dir='ltr'><strong><em>adversos</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2250 2326 2417 2383; x_wconf 57' lang='lat' dir='ltr'><strong><em>host&amp;</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2452 2326 2759 2398; x_wconf 70' lang='lat' dir='ltr'><strong><em>strbnyatm·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2796 2325 3026 2382; x_wconf 66' lang='lat' dir='ltr'><strong><em>iambus.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2092 2424 2619 2481; baseline 0 -4"><span class='ocrx_word' id='word_1_7' title='bbox 2092 2424 2255 2479; x_wconf 87' lang='lat' dir='ltr'><strong>ovid.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2296 2426 2460 2481; x_wconf 82' lang='lat' dir='ltr'><strong>Rem.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2495 2424 2619 2477; x_wconf 89' lang='lat'><strong>377.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
